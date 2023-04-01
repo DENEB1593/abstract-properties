@@ -1,0 +1,7 @@
+boutique:
+  atelier:
+    brand: deneb
+    detail: detail-product
+    retailer:
+      tessabit: tessabit-value
+      cuccuini: cuccuini-value
